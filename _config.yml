@@ -1,0 +1,12 @@
+title: Carly Hawkins
+description: Behavioral Ecologist | Applied Conservation Science
+url: https://cehawk.github.io
+
+theme: minima
+
+header_pages:
+- research.md
+- teaching.md
+- publications.md
+- cv.md
+- contact.md
