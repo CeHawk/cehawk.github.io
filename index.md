@@ -2,7 +2,9 @@
 layout: default
 title: Home
 ---
-![Fieldwork banner](./assets/images/banner.jpg)
+<div class="full-width-banner">
+  <img src="./assets/images/banner.jpg" alt="Fieldwork banner">
+</div>
 
 ## Carly Hawkins
 **Behavioral Ecologist | Conservation Biology**
