@@ -3,8 +3,6 @@ description: Behavioral Ecologist | Applied Conservation Science
 url: https://cehawk.github.io
 
 theme: minima
-sass:
-  style: compressed
 
 header_pages:
 - research.md
