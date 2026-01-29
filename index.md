@@ -2,13 +2,12 @@
 layout: default
 title: Home
 ---
-
-![Fieldwork banner](assets/images/banner.jpg)
+![Fieldwork banner](./assets/images/banner.jpg)
 
 ## Carly Hawkins
 **Behavioral Ecologist | Conservation Biology**
 
-<img src="assets/images/headshot.jpg" alt="Headshot" width="220" style="float:left; margin-right:20px; margin-bottom:20px;"/>
+<img src="./assets/images/headshot.jpg" alt="Headshot" width="220">
 
 I am a behavioral ecologist studying how individual variation shapes ecological and evolutionary outcomes, and how behavior can be translated into actionable conservation strategies. My research integrates field ecology, bioacoustics, spatial analysis, and quantitative modeling to understand how animals respond to human-driven environmental change.
 
