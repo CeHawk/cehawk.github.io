@@ -1,0 +1,6 @@
+.full-width-banner img {
+  width: 100%;
+  height: 450px; /* adjust for desired crop */
+  object-fit: cover; /* keeps center of image, crops sides */
+  display: block;
+}
